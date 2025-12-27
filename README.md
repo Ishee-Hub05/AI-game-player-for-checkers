@@ -46,9 +46,3 @@ Run the game:
   Board updated successfully  
   Your turn!  
 
-📚 Algorithms Used
--Minimax Algorithm
--Alpha-Beta Pruning
--Reinforcement Learning (Q-Learning)
--Heuristic Evaluation
-
